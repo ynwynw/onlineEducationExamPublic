@@ -83,7 +83,7 @@
 - uniapp
 
 ## 三、环境介绍
-基础环境 :IDEA/eclipse, JDK 1.8, Mysql5.7及以上, Node.js(14.21), Maven3.6, Vscode, hbuilder, 微信开发者工具, rabbit3.9, redis5.0
+基础环境 :IDEA/eclipse, JDK 1.8, Mysql5.7及以上, Node.js(12.9), Maven3.6, Vscode, hbuilder, 微信开发者工具, rabbit3.9, redis5.0
 
 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 
